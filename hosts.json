@@ -1,0 +1,154 @@
+[
+  {
+    "name": "list-youtube.txt",
+    "description": "Домены YouTube",
+    "author": "zaprett-devs",
+    "hash": "d075bd129d6ac22427b6cf2536007011fdd449f288b53d74b3c777670372a9a8",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-youtube.txt"
+  },
+  {
+    "name": "list-discord.txt",
+    "description": "Домены Discord",
+    "author": "zaprett-devs",
+    "hash": "13a60977a4b6fe0fd053bab4a8f3c73790ce20ea5eedc6eb788b56d8431a0e9a",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-discord.txt"
+  },
+  {
+    "name": "list-extended.txt",
+    "description": "Почти всё, что РКН когда-либо блокировал",
+    "author": "zaprett-devs",
+    "hash": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148a",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-extended.txt"
+  },
+  {
+    "name": "list-general.txt",
+    "description": "Общие домены",
+    "author": "zaprett-devs",
+    "hash": "0632f271349ab11ef16494c3938a13db11f011fb5e158e7c025bf6e53613f470",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-general.txt"
+  },
+  {
+    "name": "list-cloudflare.txt",
+    "description": "Домены Cloudflare",
+    "author": "zaprett-devs",
+    "hash": "243458a980b1762033e565fb339dc7f29c4dccb2f74a035e1bd7bb796e6446c6",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-cloudflare.txt"
+  },
+  {
+    "name": "list-matrix.txt",
+    "description": "Домены Matrix",
+    "author": "zaprett-devs",
+    "hash": "832b87a595b6cc959f1621b571dd46c6f844ef262e56d3930b98d3e4336a14df",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-matrix.txt"
+  },
+  {
+    "name": "list-rutracker.txt",
+    "description": "Домены RuTracker",
+    "author": "zaprett-devs",
+    "hash": "82f953b44eda73bf3319c99e8cfab572ce498d68dc7692ad0bcdae3b8256c9ed",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-rutracker.txt"
+  },
+  {
+    "name": "list-soundcloud.txt",
+    "description": "Домены SoundCloud",
+    "author": "zaprett-devs",
+    "hash": "118ffd9f58e3beb284c99caed9780bf913a992f5b8b2180ae386cab7134f3e81",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-soundcloud.txt"
+  },
+  {
+    "name": "list-telegram.txt",
+    "description": "Домены Telegram",
+    "author": "zaprett-devs & @mewmrow",
+    "hash": "afc4b3e1f676ba76a4df298c5912a645c948e966eac7ae437488f2ef93f0f5e1",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-telegram.txt"
+  },
+  {
+    "name": "list-twitter.txt",
+    "description": "Домены Twitter",
+    "author": "zaprett-devs",
+    "hash": "979d5471c125de3c3435a3640f12fb24f0986fea162ddef90a4d9e6e2f53f9e3",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-twitter.txt"
+  },
+  {
+    "name": "list-exclude-general.txt",
+    "author": "zaprett-devs and our community",
+    "description": "Общие домены для черного списка",
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-general.txt"
+  },
+  {
+    "name": "list-exclude-tiktok.txt",
+    "author": "dotFelixan",
+    "description": "Домены TikTok для черного списка",
+    "hash": "180a32689ed04ebde1163428289334f9e0243052cfe6e33435c4e279a3fc03b7",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-tiktok.txt"
+  },
+  {
+    "name": "list-meta-services.txt",
+    "author": "@XZY18RUS",
+    "description": "Домены Meta (Facebook, Instagram и т.п.)",
+    "hash": "e14376ee40c95f479ac33d89c7f091e5842764185b2aa5a94c21b2a5bb641c78",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-meta-services.txt"
+  },
+  {
+    "name": "list-exclude-yandex.txt",
+    "author": "@mewmrow",
+    "description": "Яндекс домены для черного списка",
+    "hash": "a364c7819fce04213775ebc8a2f371322adefe47d2cebd38400719f088266951",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-yandex.txt"
+  },
+  {
+    "name": "list-exclude-x5group.txt",
+    "author": "@mewmrow",
+    "description": "X5group домены для черного списка",
+    "hash": "04bc8730829a9fd6c500fa09797b62286c6bbf934f9d82b2a0718ec3982ec3cb",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-x5group.txt"
+  },
+  {
+    "name": "list-exclude-gosuslugi.txt",
+    "author": "@mewmrow",
+    "description": "Домены госуслуг для черного списка",
+    "hash": "b4618bb186e77aad2f2ed98c64bdc01df7a67597837cc2a423f303f6ecd7181b",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-gosuslugi.txt"
+  },
+  {
+    "name": "list-whatsapp.txt",
+    "author": "@mewmrow",
+    "description": "Домены whatsapp (отправляет сообщения не сразу)",
+    "hash": "128f8b14dbf49cc47ac97c7962efc7da76dc568ac0855b3bef090c832992eff6",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-whatsapp.txt"
+  },
+  {
+    "name": "list-roblox.txt",
+    "author": "zaprett-devs and @mewmrow",
+    "description": "Домены Roblox",
+    "hash": "6b3b6fc148d3b0659f645c348a7890ff674f53e75f9d7768a21bf1ef1d0e3e8e",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
+  },
+  {
+    "name": "picrew.txt",
+    "author": "sir",
+    "description": "Пикрю для мыши",
+    "hash": "827c6caa220e46522d7728275bd72e59",
+    "type": "list",
+    "url": "https://gist.github.com/revsorath/827c6caa220e46522d7728275bd72e59"
+  }
+]
