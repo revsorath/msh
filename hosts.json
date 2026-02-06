@@ -144,11 +144,11 @@
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
   },
   {
-    "name": "picrew.txt",
+    "name": "list-msh.txt",
     "author": "sir",
     "description": "Пикрю для мыши",
     "hash": "827c6caa220e46522d7728275bd72e59",
     "type": "list",
-    "url": "https://gist.github.com/revsorath/827c6caa220e46522d7728275bd72e59"
+    "url": "https://raw.githubusercontent.com/revsorath/msh/refs/heads/main/list-msh.txt"
   }
 ]
